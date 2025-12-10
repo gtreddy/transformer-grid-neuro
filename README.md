@@ -4,7 +4,9 @@
 
 > **A Computational Exploration of Scalable Expert Systems**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567) *(Update this badge after Zenodo submission)*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17881412.svg)](https://doi.org/10.5281/zenodo.17881412)
+
 
 ## 📄 Abstract
 [cite_start]Biological neurons communicate through thousands of connections, forming massively parallel systems[cite: 3]. [cite_start]While artificial architectures cannot replicate biological consciousness, the structural principles of neuronal connectivity—specifically large-scale parallel communication and broadcast-style output—offer inspiration for next-generation AI[cite: 4]. [cite_start]This project implements a **Transformer Grid Architecture**, a scalable system where Transformer blocks act as "super-neurons" capable of storing, refining, and propagating expert knowledge to future AI and robotic systems[cite: 6].
