@@ -31,3 +31,12 @@ git clone [https://github.com/your-username/transformer-grid-neuro.git](https://
 cd transformer-grid-neuro
 pip install torch
 python src/main.py
+
+## 📘 Citation
+
+If you use *Transformer Grid Neuro* in your research, please cite:
+
+**Govind Reddy (2025). Transformer Grid Neuro (v1.0.0). Zenodo.**  
+https://doi.org/10.5281/zenodo.17881412
+
+
