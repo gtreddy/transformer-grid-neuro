@@ -1,4 +1,4 @@
-# transformer-grid-neuro
+
 
 # Neuronal Connectivity as Inspiration for Transformer Grid Architectures
 
