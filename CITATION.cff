@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Transformer Grid Neuro"
+version: "1.0.0"
+doi: "10.5281/zenodo.17881412"
+date-released: "2025-02-XX"
+authors:
+
+* family-names: "Reddy"
+  given-names: "Govind"
+  repository-code: "[https://github.com/](https://github.com/)<your-username>/transformer-grid-neuro"
+  url: "[https://doi.org/10.5281/zenodo.17881412](https://doi.org/10.5281/zenodo.17881412)"
+  license: "MIT"
+  keywords:
+* transformer grid
+* neuro-inspired computation
+* information propagation
+* topology-driven computation
+* robotics signal mapping
